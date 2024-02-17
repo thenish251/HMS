@@ -1,4 +1,3 @@
-// src/app.js or src/server.js
 const express = require('express');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
